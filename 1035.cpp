@@ -6,6 +6,6 @@ using ll = long long;
 
 int main() {
   int n;
-  cin >> n;
+  cin >> hex >> n;
   cout << oct << n << '\n';
 }
